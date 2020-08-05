@@ -1,2 +1,2 @@
 This is tortoise git.I am editing this file from server.this file is updated by server
-2)This file is updated by myPc.
+2)This file is updated by server.
